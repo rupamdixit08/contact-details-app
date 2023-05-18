@@ -11,9 +11,9 @@ You can manage your contacts on this page. By completing the form, you can add a
 
 The COVID-19 data for several countries are displayed on this web page. It also has a map with markers that come up to reveal the name of the country, the total number of active, recovered cases, and the number of deaths there. The line chart displays the case fluctuations over time.
 ### APIs implemented
-World wide data of cases: https://disease.sh/v3/covid-19/all
-Country Specific data of cases: https://disease.sh/v3/covid-19/countries
-Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
+ #### World wide data of cases: https://disease.sh/v3/covid-19/all
+ #### Country Specific data of cases: https://disease.sh/v3/covid-19/countries
+ #### Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
 ### Utilised Technologies
 ReactJS
@@ -32,7 +32,7 @@ Redux
 git clone https://github.com/rupamdixit08/contact-details-app.git
 ```
 
-# After Cloning the app please install the required dependencies by
+### After Cloning the app please install the required dependencies by
 
 ```bash
 npm install
@@ -64,6 +64,8 @@ npm install module name
 ### ` Contacts List `
 ![contact-card-list](https://github.com/rupamdixit08/contact-details-app/assets/90315216/444be120-eda8-4523-8752-b6f08626c3c7)
 
+### ` View Contact Page `
+![view-contact-model](https://github.com/rupamdixit08/contact-details-app/assets/90315216/d31dcc87-8d0c-4978-8979-3a96decf971b)
 
 ### `Line charts`
 ![line-charts](https://github.com/rupamdixit08/contact-details-app/assets/90315216/ca97c149-9056-472b-a1a4-b598eb26f3fe)
